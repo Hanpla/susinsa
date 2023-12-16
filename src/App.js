@@ -9,7 +9,7 @@ import LoginSignup from "./Pages/LoginSignup";
 function App() {
   return (
     <div>
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Navbar />
         <Routes>
           <Route path="/" element={<Shop />} />
