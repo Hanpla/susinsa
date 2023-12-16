@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/susinsa/static/css/main.93b6c2a6.css",
+    "main.css": "/susinsa/static/css/main.4efdfd81.css",
     "main.js": "/susinsa/static/js/main.4b0009b7.js",
     "static/media/hero_image.png": "/susinsa/static/media/hero_image.09ff1c4114792a6143c2.png",
     "static/media/exclusive_image.png": "/susinsa/static/media/exclusive_image.e8118f2149d9cb916980.png",
@@ -17,11 +17,11 @@
     "static/media/product_35.png": "/susinsa/static/media/product_35.073b8b5de77cfc979821.png",
     "static/media/hand_icon.png": "/susinsa/static/media/hand_icon.9c7487cecb600f30901b.png",
     "index.html": "/susinsa/index.html",
-    "main.93b6c2a6.css.map": "/susinsa/static/css/main.93b6c2a6.css.map",
+    "main.4efdfd81.css.map": "/susinsa/static/css/main.4efdfd81.css.map",
     "main.4b0009b7.js.map": "/susinsa/static/js/main.4b0009b7.js.map"
   },
   "entrypoints": [
-    "static/css/main.93b6c2a6.css",
+    "static/css/main.4efdfd81.css",
     "static/js/main.4b0009b7.js"
   ]
 }
