@@ -12,7 +12,11 @@ function App() {
       <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Navbar />
         <Routes>
-          <Route path="/" element={<Shop />} />
+          <Route
+            basename={process.env.PUBLIC_URL}
+            path="/"
+            element={<Shop />}
+          />
           <Route path="/men" element={<ShopCategory category="men" />} />
           <Route path="/women" element={<ShopCategory category="women" />} />
           <Route path="/kids" element={<ShopCategory category="kids" />} />
